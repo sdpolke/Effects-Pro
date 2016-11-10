@@ -34,11 +34,4 @@ A practical and easy-to-use Android application to apply several filters to an i
 * Tint
 * Vignette
 
-## Releases and Screenshots
-* [Version 1.0 (APK)](https://github.com/yaa110/Effects-Pro/releases)
-* [Version 1.0 (Screenshots)](https://github.com/yaa110/Effects-Pro/issues/1)
-
-## Download
-[![Download from F-Droid](https://camo.githubusercontent.com/7df0eafa4433fa4919a56f87c3d99cf81b68d01c/68747470733a2f2f662d64726f69642e6f72672f77696b692f696d616765732f632f63342f462d44726f69642d627574746f6e5f617661696c61626c652d6f6e2e706e67 "Download from F-Droid")](https://f-droid.org/repository/browse/?fdid=org.appsroid.fxpro)
-
 **Note:** This project uses [LocalStorageProvider](https://github.com/iPaulPro/aFileChooser/blob/master/aFileChooser/src/com/ianhanniballake/localstorage/LocalStorageProvider.java) class to load images from gallery in KitKat devices.
